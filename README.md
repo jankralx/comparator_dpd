@@ -1,5 +1,4 @@
-# Digital Predistorter Adaptation with a Level-Crossing
-# Analogue-to-Digital Converter
+# Digital Predistorter Adaptation with a Level-Crossing Analogue-to-Digital Converter
 
 The Matlab source codes are provided to supplement our research paper
 "Digital Predistorter Adaptation with a Level-Crossing
